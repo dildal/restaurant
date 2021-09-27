@@ -85,3 +85,30 @@ li:hover {
 	width: 100%;
 	max-height: 200px
 }
+
+
+
+/*------- Contact Page ---------- */
+.map {
+	height: 400px;
+}
+
+.contact {
+	background: rgba(0, 0, 0, .5);
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+.contact-header {
+	display: flex;
+	justify-content: space-around;
+	padding: 10px;
+}
+
+.contact-blurb {
+	width: 33%;
+}
+
+.contact-info {
+	white-space: pre;	
+}
